@@ -243,3 +243,8 @@ https://uiverse.io/d4niz/good-octopus-19
   backdrop-filter: blur(4px);
 }
 
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
